@@ -71,9 +71,9 @@ Hackathon project — optimal route calculator for logistics, computing the best
 ## 📊 GitHub Stats
  
 <div align="center">
-![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jportabellag&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jportabellag&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jportabellag&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jportabellag&layout=compact&theme=dark&hide_border=true&count_private=true)
  
 </div>
 ---
